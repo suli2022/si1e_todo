@@ -1,4 +1,12 @@
-
+/*
+File: index.html
+Author: Erős István
+Copyright: 2023, Erős István
+Group: Szoft I-1 E
+Date: 2023-03-21
+Github: https://github.com/andteki/
+Licenc: GNU GPL
+*/
 const doc = {
     tbody: null
 };
